@@ -125,6 +125,20 @@ body {
     text-shadow: 1px 3px 2px rgba(0,0,0,0.1);
 }
 
+/* Extra Small (xs) and Small (sm) screens */
+@media (max-width: 767px) {
+    .dvlpr-brands {
+      width: 150px;
+    }
+  }
+  
+  /* Medium (md) and Large (lg) screens */
+  @media (min-width: 768px) {
+    .dvlpr-brands {
+      width: 200px;
+      margin-bottom: 0.5rem;
+    }
+  }
 
 
 .video-container {
