@@ -18,7 +18,7 @@ const navbar=document.createElement('div');navbar.innerHTML=`
                         > <h5 class="nav-link gs font-white" style="color: #ffffff;">About Us</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
-                        <a href=""
+                        <a href="./investing-in-real-estate.html"
                         > <h5 class="nav-link gs font-white" style="color: #ffffff;">Why Invest in Real Estate?</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
