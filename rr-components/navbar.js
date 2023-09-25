@@ -3,7 +3,7 @@ const navbar=document.createElement('div');navbar.innerHTML=`
 <!-- navbar LG -->
 <nav id="navbar" class="navbar navbar-expand-lg navbar-dark sticky-top shadow d-none d-md-block">
         <div class="container-fluid d-flex">
-            <a class="navbar-brand" href="https://rampver.com/realty">
+            <a class="navbar-brand" href="https://rampver.com/realty/index.html">
                 <img src="./home-assets/nav-logo.png">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -22,22 +22,17 @@ const navbar=document.createElement('div');navbar.innerHTML=`
                         > <h5 class="nav-link gs font-white" style="color: #ffffff;">Why Invest in Real Estate?</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
-                        <a href=""
-                        > <h5 class="nav-link gsBold font-white" style="color: #cc942c;">ENLIST Property</h5></a>
+                        <a href="./investing-in-real-estate.html"
+                        > <h5 class="nav-link gs font-white" style="color: #ffffff;">Properties</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
-                        <a href=""
-                        > <h5 class="nav-link gsBold font-white" style="color: #cc942c;">BUY Property</h5></a>
+                        <a href="./investing-in-real-estate.html"
+                        > <h5 class="nav-link gs font-white" style="color: #ffffff;">Enlist Property</h5></a>
                     </li>
-                    <li class="nav-item mt-1 mr-2">
-                        <a href=""
-                        > <h5 class="nav-link gsBold font-white" style="color: #cc942c;">RENT Property</h5></a>
-                    </li>
-              
                     <li class="nav-item mt-1 newNavGoldSet d-none d-md-block" id="newNavGoldSetLG">
                         <h6 id="navGoldLG"><a class="nav-link gsBold font-white btn shadow inqSm-Gold"
                                 href="https://go.rampver.com/X2z"
-                                style="background-color:#cc942c; color: #ffffff;">Call Now</a></h6>
+                                style="background-color:#cc942c; color: #ffffff;">Contact Us</a></h6>
                     </li>
                 </ul>
             </div>
@@ -58,7 +53,7 @@ const navbar=document.createElement('div');navbar.innerHTML=`
             <div class="inqSm-Gold newNavGoldSet d-md-none" id="newNavGoldSetSM">
                 <h6 class="ml-5 inqSm-Gold" id="navGoldSM"><a class="nav-link mt-2 gsBold font-white btn sticky-top shadow"
                         href="https://go.rampver.com/X2z"
-                        style="background-color:#cc942c; color: #ffffff;">Call Now</a></h6>
+                        style="background-color:#cc942c; color: #ffffff;">Contact Us</a></h6>
             </div>
             <div class="collapse navbar-collapse ml-3" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto order-2">
@@ -67,21 +62,18 @@ const navbar=document.createElement('div');navbar.innerHTML=`
                         > <h5 class="nav-link gs font-white" style="color: #ffffff;">About Us</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
-                        <a href=""
+                        <a href="./investing-in-real-estate.html"
                         > <h5 class="nav-link gs font-white" style="color: #ffffff;">Why Invest in Real Estate?</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
-                        <a href=""
-                        > <h5 class="nav-link gsBold font-white" style="color: #cc942c;">ENLIST Property</h5></a>
+                        <a href="./investing-in-real-estate.html"
+                        > <h5 class="nav-link gs font-white" style="color: #ffffff;">Properties</h5></a>
                     </li>
                     <li class="nav-item mt-1 mr-2">
-                        <a href=""
-                        > <h5 class="nav-link gsBold font-white" style="color: #cc942c;">BUY Property</h5></a>
+                        <a href="./investing-in-real-estate.html"
+                        > <h5 class="nav-link gs font-white" style="color: #ffffff;">Enlist Property</h5></a>
                     </li>
-                    <li class="nav-item mt-1 mr-2">
-                        <a href=""
-                        > <h5 class="nav-link gsBold font-white" style="color: #cc942c;">RENT Property</h5></a>
-                    </li>
+                    
                 </ul>
             </div>
         </div>
