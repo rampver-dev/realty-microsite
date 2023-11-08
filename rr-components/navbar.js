@@ -31,7 +31,7 @@ const navbar=document.createElement('div');navbar.innerHTML=`
                     </li>
                     <li class="nav-item mt-1 newNavGoldSet d-none d-md-block" id="newNavGoldSetLG">
                         <h6 id="navGoldLG"><a class="nav-link gsBold font-white btn shadow inqSm-Gold"
-                                href="https://go.rampver.com/X2z"
+                                href="https://rampver.com/realty#contact-us"
                                 style="background-color:#cc942c; color: #ffffff;">Contact Us</a></h6>
                     </li>
                 </ul>
@@ -52,7 +52,7 @@ const navbar=document.createElement('div');navbar.innerHTML=`
             </a>
             <div class="inqSm-Gold newNavGoldSet d-md-none" id="newNavGoldSetSM">
                 <h6 class="ml-5 inqSm-Gold" id="navGoldSM"><a class="nav-link mt-2 gsBold font-white btn sticky-top shadow"
-                        href="https://go.rampver.com/X2z"
+                        href="https://rampver.com/realty#contact-us"
                         style="background-color:#cc942c; color: #ffffff;">Contact Us</a></h6>
             </div>
             <div class="collapse navbar-collapse ml-3" id="navbarSupportedContent">
